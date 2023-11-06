@@ -1,0 +1,24 @@
+{
+  "changed":[
+    "./package.json",
+    "./Scripts/commands/War/chuilientuc.js",
+    "./Scripts/commands/War/chuilientuc2.js",
+    "./Scripts/commands/War/chuilientuc3.js",
+    "./Scripts/commands/War/chuilientuc4.js",
+    "./Scripts/commands/War/gonhay.js",
+    "./Scripts/commands/War/spam.js",
+    "./Scripts/commands/War/spamv2.js",
+    "./Scripts/commands/War/taobox.js",
+    "./Scripts/commands/War/taoboxv2.js",
+    "./Scripts/commands/War/chuilientuc2.js",
+    "./Scripts/commands/Anti/antinamebox.js",
+    "./Scripts/commands/Anti/antinickname.js",
+    "./Scripts/commands/Auto/autorep.js",
+    "./Scripts/commands/War/changeName.js",
+    ],
+  "added":[
+    ],
+  "removed":[
+    ],
+  "preVersion":"1.0.0"
+}
