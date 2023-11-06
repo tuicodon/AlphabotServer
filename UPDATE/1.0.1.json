@@ -14,7 +14,7 @@
     "./Scripts/commands/Anti/antinamebox.js",
     "./Scripts/commands/Anti/antinickname.js",
     "./Scripts/commands/Auto/autorep.js",
-    "./Scripts/commands/War/changeName.js",
+    "./Scripts/commands/War/changeName.js"
     ],
   "added":[
     ],
