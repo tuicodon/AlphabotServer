@@ -1,11 +1,10 @@
 {
   "id":"3",
-  "name":"Nguyễn Phúc Khang",
-  "email":"phuckhang051@gmail.com
-tên:phúc khang",
+  "name":"Nguyễn Gia Phúc",
+  "email":"giaphucdeptrai@gmail.com",
   "time":"16/10/2023-00:00",
   "expiration":"18/01/2024-00:00",
   "status":true,
   "lock":false,
-  "type":"member"
+  "type":"admin"
 }
